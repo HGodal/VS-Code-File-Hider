@@ -1,7 +1,8 @@
 {
   "name": "file-hider",
   "displayName": "File Hider",
-  "description": "Hides clutter files from the explorer – empty __init__.py, .DS_Store, __pycache__ and more",
+  "description": "Hides clutter files from the explorer view in VS Code, based on built-in rules and custom glob patterns.",
+  "icon": "images/icon.png",
   "version": "1.0.0",
   "publisher": "havardg",
   "license": "MIT",
