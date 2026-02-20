@@ -3,7 +3,7 @@
   "displayName": "File Hider",
   "description": "Hides clutter files from the explorer view in VS Code, based on built-in rules and custom glob patterns.",
   "icon": "images/icon.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "havardg",
   "license": "MIT",
   "repository": {
