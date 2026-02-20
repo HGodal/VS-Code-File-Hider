@@ -41,14 +41,3 @@ A VS Code extension that automatically hides clutter files and directories from 
 ## How It Works
 
 The extension adds workspace-level `files.exclude` entries for each file or folder matching your active rules and custom patterns. It tracks which entries it manages so it never touches exclusions you've set yourself. When you disable the extension, deactivate a rule, or a file no longer matches (e.g. an `__init__.py` gains content), the corresponding exclusion is automatically removed.
-
-## Release Notes
-
-### 1.0.0
-
-- Built-in hide rules for common clutter files and directories.
-- Custom glob pattern support.
-- Sidebar panel with rule and custom pattern management.
-- Status bar toggle.
-- File system watchers for live updates.
-- First-run rule selection prompt.
