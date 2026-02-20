@@ -1,0 +1,17 @@
+# Build output
+out/
+dist/
+
+# Dependencies
+node_modules/
+
+# VS Code / Extension tooling
+.vscode/
+.vscode-test/
+
+# Packaged extension
+*.vsix
+
+# OS clutter
+.DS_Store
+Thumbs.db
